@@ -9,7 +9,7 @@
     "endTime": "2025-07-28T20:00:00Z",
     "insurance_type": "",
     "note": "",
-    "authorization": "Not Required",
+    "authorization": "Not Req",
     "forms": [],
     "chiefComplaint": "Head Injury",
     "isRecurring": false,
